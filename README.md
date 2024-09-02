@@ -1,2 +1,2 @@
 # Items_Manager
-A Django Rest API with MongoDB
+A CRUD Rest API using Django and MongoDB as the Database
